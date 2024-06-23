@@ -29,6 +29,31 @@ I recently completed an in-depth analysis of hotel booking data, uncovering fasc
   - Peak booking months and length of stay.
 - **Cancellation Analysis:**
   - Reasons behind high cancellation rates.
+ 
+  
+### Skills Acquired in Hotel Booking Data Analysis Project:
+- **Data Analysis:**
+  - Exploratory Data Analysis (EDA)
+  - Data Cleaning and Preprocessing
+  - Descriptive Statistics
+- **Data Visualization:**
+  - Creating plots using Matplotlib and Seaborn
+  - Geospatial plotting with Geopandas
+  - Heatmaps, Bar Charts, Histograms, and KDE plots
+- **Programming and Libraries:**
+  - Proficiency in Python
+  - Using Pandas and NumPy for data manipulation
+  - Advanced plotting with Matplotlib and Seaborn
+  - Spatial data analysis with Geopandas
+  - Scikit-learn for data preprocessing
+- **Time Series Analysis:**
+  - Analyzing trends over time
+  - Seasonal decomposition of time series
+- **Statistical Analysis:**
+  - Correlation analysis
+  - Analyzing distributions and relationships between variables
+- **Domain-Specific Knowledge:**
+  - Understanding key metrics in the hotel industry
 
 This project honed my analytical skills and provided actionable insights for hotel management teams. Let's connect and discuss data science! 🤝
 
