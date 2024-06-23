@@ -1,5 +1,8 @@
 # Hotel_Booking_EDA_Analysis
 
+![image](https://github.com/abhishek-mohapatra-0/Hotel_Booking_EDA_Analysis/assets/129636310/2b80025b-1cc3-4989-83be-2b4a5e2d479b)
+
+
                        🚀 Excited to Share My Latest Data Analysis Project! 🚀
 
 I recently completed an in-depth analysis of hotel booking data, uncovering fascinating insights into guest behaviors and preferences. Here are the highlights:
